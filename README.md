@@ -1,4 +1,4 @@
-# Main overview and abstract
+Main overview and abstract
 docs/
 │   ├── psychological_framework.md  # Deep dive into cognitive biases
 │   ├── case_studies.md          # Real-world social engineering examples
